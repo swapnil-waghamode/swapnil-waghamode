@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-waghamode&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-waghamode"> </p>
 
-- 🌱 I’m currently learning **SpringBoot , ReactJs**
+- 🌱 I’m currently learning **Python , Machine Learning , Generative AI , Data Science**
 
-- 💬 Ask me about **Java , Frontend**
+- 💬 Ask me about **Java , Springboot,  Python**
 
 - 📫 How to reach me **swapnilw8451@gmail.com**
 
