@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python , Machine Learning , Generative AI , Data Science**
 
-- 💬 Ask me about **Java , Springboot,  Python**
+- 💬 Ask me about **Cybersecurity , Java , Springboot,  Python , **
 
 - 📫 How to reach me **swapnilw8451@gmail.com**
 
