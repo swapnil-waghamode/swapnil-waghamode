@@ -29,10 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
 </a>
 
-<a href="https://www.confluent.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/confluent" alt="Confluent Kafka" width="40" height="40"/>
-</a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </a>
@@ -69,24 +65,25 @@
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="40" height="40"/>
 </a>
 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/<swapnil-waghamode>/<your-repository>/main/assets/airflow.png"
+<!-- Airflow -->
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/airflow.png"
        alt="Apache Airflow"
        width="40"
        height="40"/>
 </a>
 
 <!-- LangChain -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico"
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/langchain.png"
        alt="LangChain"
        width="40"
        height="40"/>
 </a>
 
 <!-- LangGraph -->
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/favicon.ico"
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/langgraph.png"
        alt="LangGraph"
        width="40"
        height="40"/>
