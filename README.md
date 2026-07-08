@@ -65,10 +65,6 @@
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="40" height="40"/>
 </a>
 
-<p align="center">
-  <img src="https://apache.org" alt="Apache Airflow Logo" width="400">
-</p>
-
 <!-- Airflow -->
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/2e80f561-0a69-4d83-96ef-c44368ceb0b0" />
 
