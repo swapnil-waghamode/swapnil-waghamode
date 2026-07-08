@@ -65,28 +65,19 @@
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="40" height="40"/>
 </a>
 
-<!-- Airflow -->
-<a href="https://airflow.apache.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/airflow.png"
-       alt="Apache Airflow"
-       width="40"
-       height="40"/>
+<!-- Apache Airflow -->
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/anilkulkarni87/airflow-docker/master/airflow.png" alt="Apache Airflow" width="40" height="40"/>
 </a>
 
 <!-- LangChain -->
-<a href="https://www.langchain.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/langchain.png"
-       alt="LangChain"
-       width="40"
-       height="40"/>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/davila7/langchain-101/main/assets/langchain.png" alt="LangChain" width="40" height="40"/>
 </a>
 
 <!-- LangGraph -->
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-  <img src="https://raw.githubusercontent.com/swapnil-waghamode/swapnil-waghamode/main/assets/langgraph.png"
-       alt="LangGraph"
-       width="40"
-       height="40"/>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
+  <img src="https://lobehub.com/icons/langgraph.png" alt="LangGraph" width="40" height="40"/>
 </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
