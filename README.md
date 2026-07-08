@@ -17,15 +17,35 @@
 • Distributed Data Processing
 • Cloud Data Platforms
 
-<h3 align="left">⚡🏆 Certifications :</h3>
+<h3 align="left">🏆 Certifications</h3>
 
-✔ Databricks Certified Data Engineer Professional
+<p align="left">
+  <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <strong>Databricks Certified Data Engineer Professional</strong><br><br>
 
-✔ Databricks Certified Data Engineer Associate
+  <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <strong>Databricks Certified Data Engineer Associate</strong><br><br>
 
-✔ Databricks Certified Generative AI Engineer Associate
+  <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <strong>Databricks Certified Generative AI Engineer Associate</strong>
+</p>
 
-📫 <h3 align="left">Reach Out to me :</h3>
+<p>
+  <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Credentials-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Credentials"/>
+  </a>
+</p>
+
+<h3 align="left">📫 Contact Me :</h3>
 
 <p align="left">
  <a href="mailto:swapnilw8451@gmail.com">
