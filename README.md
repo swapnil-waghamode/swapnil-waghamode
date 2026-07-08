@@ -65,19 +65,27 @@
   <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" width="40" height="40"/>
 </a>
 
-<!-- Apache Airflow -->
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/anilkulkarni87/airflow-docker/master/airflow.png" alt="Apache Airflow" width="40" height="40"/>
-</a>
+<p align="center">
+  <img src="https://apache.org" alt="Apache Airflow Logo" width="400">
+</p>
+
+<!-- Airflow -->
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/2e80f561-0a69-4d83-96ef-c44368ceb0b0" />
 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/davila7/langchain-101/main/assets/langchain.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/langchain.webp"
+       alt="LangChain"
+       width="40"
+       height="40"/>
 </a>
 
 <!-- LangGraph -->
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-  <img src="https://lobehub.com/icons/langgraph.png" alt="LangGraph" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png"
+       alt="LangGraph"
+       width="40"
+       height="40"/>
 </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
