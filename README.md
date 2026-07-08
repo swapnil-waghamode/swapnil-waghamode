@@ -50,7 +50,7 @@
 <!-- ======================= INTERESTS ======================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=3000&color=1E3A8A&repeat=True&width=600&lines=%F0%9F%92%A1+Technical+Interests" alt="Technical Interests"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=5000&pause=4000&color=1E3A8A&repeat=True&width=600&lines=%F0%9F%92%A1+Technical+Interests" alt="Technical Interests"/>
 </p>
 
 <p align="left">
@@ -74,7 +74,7 @@
 <!-- ======================= CERTIFICATIONS ======================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=3500&color=FF6F00&repeat=True&width=650&lines=%F0%9F%8F%86+Databricks+Certifications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=5000&pause=4000&color=FF6F00&repeat=True&width=650&lines=%F0%9F%8F%86+Databricks+Certifications"/>
 </p>
 
 <p align="left">
@@ -135,7 +135,7 @@
 <!-- ======================= CONTACT ======================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=4000&color=3E2723&repeat=True&width=500&lines=%F0%9F%93%AB+Let's+Connect" alt="Let's Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=5000&pause=4000&color=3E2723&repeat=True&width=500&lines=%F0%9F%93%AB+Let's+Connect" alt="Let's Connect"/>
 </p>
 
 <p align="left">
@@ -157,7 +157,7 @@
 <!-- ======================= TOOLS ======================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=4500&color=059669&repeat=True&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Technology+Stack"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=5000&pause=4000&color=059669&repeat=True&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Technology+Stack"/>
 </p>
 
 <p align="left">
