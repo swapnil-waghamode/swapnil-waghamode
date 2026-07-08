@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-waghamode&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-waghamode"> </p>
 
-🚀 <h3 align="left"> Building scalable ETL pipelines, cloud-native data solutions, and AI applications with modern Data Engineering and Generative AI technologies.</h3>
+ <h3 align="left">🚀 Building scalable ETL pipelines, cloud-native data solutions, and AI applications with modern Data Engineering and Generative AI technologies.</h3>
 
-💡<h3 align="left"> Interested in :</h3>
+<h3 align="left">💡 Interested in :</h3>
 
 • Data Engineering
 • AI Agents
@@ -17,7 +17,7 @@
 • Distributed Data Processing
 • Cloud Data Platforms
 
-⚡🏆<h3 align="left"> Certifications :</h3>
+<h3 align="left">⚡🏆 Certifications :</h3>
 
 ✔ Databricks Certified Data Engineer Professional
 
@@ -26,8 +26,14 @@
 ✔ Databricks Certified Generative AI Engineer Associate
 
 📫 <h3 align="left">Reach Out to me :</h3>
-- <p><b>swapnilw8451@gmail.com</b></p>
 
+<p align="left">
+ <a href="mailto:swapnilw8451@gmail.com">
+  <img src="https://img.shields.io/badge/Email-swapnilw8451%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+<!--Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
 
