@@ -73,11 +73,11 @@
   <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="40" height="40"/>
 </a>
 
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+<a href="https://seeklogo.com/vector-logo/611655/langchain-icon" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="40" height="40"/>
 </a>
 
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
+<a href="[https://langchain-ai.github.io/langgraph/](https://drizzle.systems/integration/langgraphe/)" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="40" height="40"/>
 </a>
 
