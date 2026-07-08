@@ -74,11 +74,11 @@
 </a>
 
 <a href="https://seeklogo.com/vector-logo/611655/langchain-icon" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="40" height="40"/>
+  <img src="[https://cdn.simpleicons.org/langchain](https://seeklogo.com/vector-logo/611655/langchain-icon)" alt="LangChain" width="40" height="40"/>
 </a>
 
 <a href="[https://langchain-ai.github.io/langgraph/](https://drizzle.systems/integration/langgraphe/)" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="40" height="40"/>
+  <img src="[https://cdn.simpleicons.org/langgraph](https://drizzle.systems/integration/langgraphe/)" alt="LangGraph" width="40" height="40"/>
 </a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
