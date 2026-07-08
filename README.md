@@ -26,7 +26,8 @@
 
 ✔ Databricks Certified Generative AI Engineer Associate
 
-📫 How to reach me **swapnilw8451@gmail.com**
+📫 **How to reach me**
+📩 **swapnilw8451@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
