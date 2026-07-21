@@ -21,14 +21,23 @@
 
 
 <!-- Typing Animation Header -->
+
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=166534&center=true&vCenter=true&width=1200&lines=Welcome+to+My+GitHub+Profile!;Data+%2B+AI+Engineer;Building+Production-Grade+Data+Solutions;Developing+Scalable+AI+%26+GenAI+Applications;Let's+Turn+Data+and+AI+into+Intelligent+Systems"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=166534&center=true&vCenter=true&width=1100&lines=Building+Production-Ready+Data+Pipelines;Developing+LLM+%26+GenAI+Applications;Open+to+AI+%26+Data+Engineering+Opportunities"
       alt="Typing SVG"
     />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
