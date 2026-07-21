@@ -88,7 +88,7 @@
 </a>
 
 <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
-  <img src="https://img.shields.io/badge/Generative%20AI%20Engineer-8ABCEB?style=for-the-badge&logo=databricks&logoColor=1F2937" alt="Generative AI Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI%20Engineer%20Associate-8ABCEB?style=for-the-badge&logo=databricks&logoColor=1F2937" alt="Generative AI Engineer Badge"/>
 </a>
 
 <a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
