@@ -88,19 +88,19 @@
 
 <p align="left">
 
-<a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet">
+<a href="">
 <img src="https://img.shields.io/badge/Data%20Engineer%20Professional-E65100?style=for-the-badge&logo=databricks&logoColor=white"/>
 </a>
 
-<a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet">
+<a href="">
 <img src="https://img.shields.io/badge/Data%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
 </a>
 
-<a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Generative%20AI%20Engineer%20Associate-8ABCEB?style=for-the-badge&logo=databricks&logoColor=1F2937" alt="Generative AI Engineer Badge"/>
 </a>
 
-<a href="https://credentials.databricks.com/profile/swapnilwaghamode228237/wallet" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Spark%20Developer%20Associate-264653?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark Developer Associate Badge"/>
 </a>
 
