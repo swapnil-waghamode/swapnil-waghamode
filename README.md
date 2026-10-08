@@ -15,7 +15,7 @@
 <!-- Banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=280&font=Space+Grotesk&text=Swapnil%20Waghamode&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Generative%20AI&descSize=20&descAlignY=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=280&font=Space+Grotesk&text=Swapnil%20Waghamode&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Generative%20AI%20%7C%20%20Agentic%20AI&descSize=20&descAlignY=60&animation=fadeIn"
     width="100%" />
 </p>
 
@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=166534&center=true&vCenter=true&width=1200&lines=Welcome+to+My+GitHub+Profile!;Data+%2B+AI+Engineer;Building+Production-Grade+Data+Solutions;Developing+Scalable+AI+%26+GenAI+Applications;Let's+Turn+Data+and+AI+into+Intelligent+Systems"
+      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1000&color=166534&center=true&vCenter=true&width=1200&lines=Welcome+to+My+GitHub+Profile!;Developing+Scalable+AI+%26+GenAI+Applications;Let's+Turn+Data+and+AI+into+Intelligent+Systems"
       alt="Typing SVG"
     />
   </a>
@@ -187,13 +187,13 @@
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.mongodb.com/">
+<!-- <a href="https://www.mongodb.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://hadoop.apache.org/">
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50" height="50"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <a href="https://spark.apache.org/">
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50" height="50"/>
@@ -219,13 +219,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.snowflake.com/">
+<!-- <a href="https://www.snowflake.com/">
 <img src="https://cdn.simpleicons.org/snowflake" width="50" height="50"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://airflow.apache.org/">
 <img src="https://github.com/user-attachments/assets/2e80f561-0a69-4d83-96ef-c44368ceb0b0" width="50" height="50"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <a href="https://www.langchain.com/">
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/langchain.webp" width="50" height="50"/>
