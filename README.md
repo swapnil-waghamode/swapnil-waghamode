@@ -5,11 +5,11 @@
 </p> -->
 
 <!-- Views counter --> 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swapnil-waghamode&label=Profile%20Views&color=16A34A&style=for-the-badge"
        alt="Profile Views"
        height="33"/>
-</p>
+</p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-waghamode&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-waghamode"> </p> -->
 
 <!-- Banner -->
