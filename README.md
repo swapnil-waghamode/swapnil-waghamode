@@ -64,7 +64,7 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Data%20Engineering-0EA5E9?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge&logo=openai&logoColor=white"/>
 
