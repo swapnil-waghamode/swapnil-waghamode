@@ -203,9 +203,12 @@
 <img src="https://cdn.simpleicons.org/databricks" width="50" height="50"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-</a>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+
+<!-- <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
+</a>&nbsp;&nbsp; -->
+
 
 <a href="https://azure.microsoft.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50"/>
